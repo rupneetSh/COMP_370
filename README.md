@@ -10,7 +10,7 @@ McGill University, School of Computer Science<br/>
 **Data Visualization Using:** MS Excel and Python<br/>
 <br/>
 
-**Project Developed for:** COMP 370, McGill University 
+**Project Developed for:** COMP 370, McGill University<br/>
 **Project Grade:** 100/100 
 
 
